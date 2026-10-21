@@ -151,6 +151,6 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![React.js-Login-Form](https://img.shields.io/static/v1?label=&message=React.js-Login-Form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/React.js-Login-Form) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/knapsack-algorithm-python) |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) | [![CodeHole7/React.js-Login-Form](https://img.shields.io/static/v1?label=&message=React.js-Login-Form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/React.js-Login-Form) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![CodeHole7/knapsack-algorithm-python](https://img.shields.io/static/v1?label=&message=knapsack-algorithm-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/CodeHole7/knapsack-algorithm-python) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
